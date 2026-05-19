@@ -1,0 +1,12 @@
+{
+  "appId": "cn.brerp.xdh",
+  "appName": "XDH-ERP",
+  "webDir": "www",
+  "server": {
+    "url": "http://xdh.brerp.cn/",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
